@@ -1,0 +1,23 @@
+{
+  "name": "catalog-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedEllouze/catalog-mail.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedEllouze/catalog-mail/issues"
+  },
+  "homepage": "https://github.com/MohamedEllouze/catalog-mail#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
